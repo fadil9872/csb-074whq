@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://fadil9872.github.io/csb-074whq/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://fadil9872.github.io/csb-074whq/static/js/main.0863e2f9.chunk.js",
+    "main.js.map": "https://fadil9872.github.io/csb-074whq/static/js/main.0863e2f9.chunk.js.map",
+    "runtime-main.js": "https://fadil9872.github.io/csb-074whq/static/js/runtime-main.1fd2b1bd.js",
+    "runtime-main.js.map": "https://fadil9872.github.io/csb-074whq/static/js/runtime-main.1fd2b1bd.js.map",
+    "static/js/2.33f0bf01.chunk.js": "https://fadil9872.github.io/csb-074whq/static/js/2.33f0bf01.chunk.js",
+    "static/js/2.33f0bf01.chunk.js.map": "https://fadil9872.github.io/csb-074whq/static/js/2.33f0bf01.chunk.js.map",
+    "index.html": "https://fadil9872.github.io/csb-074whq/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://fadil9872.github.io/csb-074whq/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://fadil9872.github.io/csb-074whq/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fd2b1bd.js",
+    "static/js/2.33f0bf01.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0863e2f9.chunk.js"
+  ]
+}
